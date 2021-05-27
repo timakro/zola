@@ -458,9 +458,9 @@ checksum = "e78d4f1cc4ae33bbfc157ed5d5a5ef3bc29227303d595861deb238fcec4e9457"
 
 [[package]]
 name = "elasticlunr-rs"
-version = "2.3.9"
+version = "2.3.12"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "35622eb004c8f0c5e7e2032815f3314a93df0db30a1ce5c94e62c1ecc81e22b9"
+checksum = "2f8cf73b19a7aece6942f5745a2fc1ae3c8b0533569707d596b5d6baa7d6c600"
 dependencies = [
  "jieba-rs",
  "lazy_static",
